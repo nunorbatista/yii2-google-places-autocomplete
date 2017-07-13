@@ -1,0 +1,21 @@
+{
+    "name": "nunorbatista/yii2-google-places-autocomplete",
+    "description": "Google Places Auto Complete input widget for Yii2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nuno Batista",
+            "email": "nunorbatista@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "nunorbatista\\GooglePlacesAutoComplete\\": "src/"
+        }
+    }
+}
