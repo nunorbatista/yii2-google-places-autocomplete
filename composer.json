@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nunorbatista\\Yii2\\GooglePlacesAutoComplete\\": "src/"
+            "nunorbatista\\GooglePlacesAutoComplete\\": "src/"
         }
     }
 }

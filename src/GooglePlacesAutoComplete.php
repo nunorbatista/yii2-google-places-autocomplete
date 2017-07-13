@@ -1,10 +1,9 @@
 <?php
 
-namespace PetraBarus\Yii2\GooglePlacesAutoComplete;
+namespace nunorbatista\GooglePlacesAutoComplete;
 
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
-
 
 class GooglePlacesAutoComplete extends InputWidget {
 
